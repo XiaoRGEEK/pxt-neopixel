@@ -30,5 +30,7 @@
   "neopixel.Strip.setMatrixWidth|block": "%strip|设置矩阵宽度 %width",
   "neopixel.Strip.setMatrixColor|block": "%string|设置像素点 （坐标）x %x|y %y|颜色 %rgb=neopixel_colors",
   "neopixel.create|block": "引脚%pin|初始化灯带|%numleds|颗LED（模式%mode|）",
-  "neopixel.rgb|block": "RGB（红%red|绿%green|蓝%blue|）"
+  "neopixel.rgb|block": "RGB（红%red|绿%green|蓝%blue|）",
+  "neopixel|block": "彩灯条",
+  "{id:category}neopixel": "彩灯条"
 }
