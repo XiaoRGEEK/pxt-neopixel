@@ -32,5 +32,7 @@
   "neopixel.create|block": "引脚%pin|初始化灯带|%numleds|颗LED（模式%mode|）",
   "neopixel.rgb|block": "RGB（红%red|绿%green|蓝%blue|）",
   "neopixel|block": "彩灯条",
-  "{id:category}neopixel": "彩灯条"
+  "{id:category}neopixel": "彩灯条",
+  "Neopixel|block": "彩灯条",
+  "{id:category}Neopixel": "彩灯条"
 }
